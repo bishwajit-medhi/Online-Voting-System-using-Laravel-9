@@ -1,4 +1,4 @@
-@extends('student.layout.master')
+@extends('party.layout.master')
 
 @section('content')
     
